@@ -24,9 +24,9 @@ Exploratory analysis of Aadhaar demographic update data, including:
 
 1) District-level behavioural patterns
 
-2)Age-based update distributions
+2) Age-based update distributions
 
-3)Regional contrasts and anomalies
+3) Regional contrasts and anomalies
 
 
 **Approach**
